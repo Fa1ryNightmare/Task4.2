@@ -16,6 +16,8 @@ namespace Task4_2
                 n++;
             }
             Console.WriteLine($"Сумма ряда: {S}");
+
+            Console.ReadKey();
         }
     }
 }
